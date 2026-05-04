@@ -8,5 +8,3 @@ joblib
 imbalanced-learn
 xgboost
 lightgbm
-tensorflow
-torch
